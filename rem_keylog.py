@@ -3,7 +3,7 @@ import pynput.keyboard
 import socket
 
 s = socket.socket()
-port = 8082
+port = 1234
 
 host = "192.168.77.108"
 
